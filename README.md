@@ -1,5 +1,7 @@
 # Personal Academic Website
 
+*Based on the template from [Sukwon Yun's personal website](https://github.com/SukwonYun/sukwonyun.github.io)*
+
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
 
