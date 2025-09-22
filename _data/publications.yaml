@@ -1,0 +1,68 @@
+papers:
+  - title: "CooT🐦: Learning to Coordinate In-Context with Coordination Transformers"
+    year: "2025"
+    authors: "Huai-Chih Wang, Hsiang-Chun Chuang, Hsi-Chun Cheng, <b><u>Dai-Jie Wu</u></b>, Shao-Hua Sun"
+    venue: "ICML 2025 MAS Workshop & ICLR 2026 (under review)"
+    paper_pdf: "https://arxiv.org/abs/2506.23549"
+    # code: ""
+    image: "assets/images/publications/coot.png"
+    category: "recent"
+    selected: y
+    
+  - title: "Diffusion Imitation from Observation"
+    year: "2024"
+    authors: "Bo-Ruei Huang, Chun-Kai Yang, Chun-Mao Lai, <b><u>Dai-Jie Wu</u></b>, Shao-Hua Sun"
+    venue: "NeurIPS 2024"
+    project_page: "https://nturobotlearninglab.github.io/DIFO/"
+    paper_pdf: "https://arxiv.org/abs/2410.05429"
+    code: "https://github.com/NTURobotLearningLab/DIFO"
+    image: "assets/images/publications/difo.png"
+    category: "recent"
+    selected: y
+
+  - title: "CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents"
+    year: "2024"
+    authors: "Tianqi Xu*, Linyao Chen*, <b><u>Dai-Jie Wu*</u></b>, Yanjun Chen*, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Philip Torr, Bernard Ghanem, Guohao Li"
+    venue: "ACL Findings 2025 & NeurIPS 2024 OWA Workshop"
+    paper_pdf: "https://arxiv.org/abs/2407.01511"
+    project_page: "https://crab.camel-ai.org/"
+    code: "https://github.com/camel-ai/crab"
+    image: "assets/images/publications/crab.png"
+    category: "recent"
+    selected: y
+
+  - title: "StyleDiT: A Unified Framework for Diverse Child and Partner Faces Synthesis with Style Latent Diffusion Transformer"
+    year: "2024"
+    authors: "Pin-Yen Chiu*, <b><u>Dai-Jie Wu*</u></b>, Po-Hsun Chu, Chia-Hsuan Hsu, Hsiang-Chen Chiu, Chih-Yu Wang, Jun-Cheng Chen"
+    venue: "Under Review"
+    paper_pdf: "https://arxiv.org/abs/2412.10785"
+    image: "assets/images/publications/styledit.png"
+    category: "others"
+    selected: y
+
+  - title: "Cross-Modal and Cross-Domain Knowledge Transfer for Label-Free 3D Segmentation"
+    year: "2023"
+    authors: "Jingyu Zhang*, Huitong Yang*, <b><u>Dai-Jie Wu*</u></b>, Jacky Keung, Xuesong Li, Xinge Zhu, Yuexin Ma"
+    venue: "Springer PRCV 2023"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-981-99-8435-0_37"
+    image: "assets/images/publications/prcv.png"
+    category: "others"
+    selected: y
+
+  - title: "Towards Validating Face Editing Ability in Generative Models"
+    year: "2024"
+    authors: "<b><u>Dai-Jie Wu*</u></b>, Pin-Yen Chiu*, Chih-Yu Wang, Jun-Cheng Chen"
+    venue: "IEEE VCIP 2024"
+    paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10849882"
+    image: "assets/images/publications/vcip.png"
+    category: "others"
+    selected: y
+
+  - title: "A high-throughput pipeline for phenotyping, object detection and quantification of leaf trichomes"
+    year: "2025"
+    authors: "Andrea González-Muñoz, <b><u>Dai-Jie Wu</u></b>, Ana Belén Perera-Rodríguez, Mohamed Rekik, Silvio Giancola, Brande B. H. Wulff, Catherine Gardener"
+    venue: "Springer TAG 2025"
+    paper_pdf: "https://link.springer.com/article/10.1007/s00122-025-04967-z"
+    image: "assets/images/publications/tag.png"
+    category: "others"
+    selected: y

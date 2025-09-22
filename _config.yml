@@ -1,0 +1,11 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+encoding:    utf-8
+
+collections:
+  projects:
+    output: true
+
+# Disable problematic plugins temporarily
+plugins: []
