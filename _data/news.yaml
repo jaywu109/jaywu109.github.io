@@ -1,0 +1,27 @@
+news:
+- date: "Sep., 2025"
+  content: 'Will be attending <b style="color:#fa8072;">CoRL</b> and <b style="color:#fa8072;">Humanoids 2025</b> conferences. See you in Seoul!'
+
+- date: "Aug., 2025"
+  content: 'Gave a talk on robot learning tutorial at <b style="color:#fa8072;">ROS CON TAIWAN 2025</b>! <a href="https://drive.google.com/file/d/1o61inxubqQQIBqg3xH0gluQEIZB-2t4v/view?usp=drive_link">[Slides]</a>'
+
+- date: "Jun., 2025"
+  content: 'Our <a href="https://arxiv.org/abs/2506.23549">CooT</a> paper has been accepted to <b style="color:#fa8072;">ICML 2025 MAS Workshop</b>!'
+
+- date: "May, 2025"
+  content: 'Received <b style="color:#fa8072;">PhD fellowship</b> from Kahlert School of Computing at University of Utah!'
+
+- date: "May, 2025"
+  content: 'Started Robot Learning internship at <a href="http://shennongshi.ai/" >SHENNONGSHI.AI</a>, focusing on cooking applications!'
+
+- date: "April, 2025"
+  content: 'Our <a href="https://crab.camel-ai.org/">CRAB</a> benchmark has been accepted to <b style="color:#fa8072;">ACL Findings 2025</b>!'
+
+- date: "Oct., 2024"
+  content: 'Our <a href="https://nturobotlearninglab.github.io/DIFO/">Diffusion Imitation from Observation</a> paper has been accepted to <b style="color:#fa8072;">NeurIPS 2024</b>!'
+
+- date: "Jul., 2024"
+  content: 'Our <a href="https://crab.camel-ai.org/">CRAB</a> benchmark has been accepted to <b style="color:#fa8072;">NeurIPS 2024 OWA Workshop</b>!'
+
+- date: "May, 2024"
+  content: 'Started collaboration with NTU Robot Learning Lab working on foundation models for robotics!'

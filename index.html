@@ -26,14 +26,9 @@ layout: default
 <div class="docs-section">
   <h5>News</h5>
   <ul>
-    <li><b>Jun., 2025</b>&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="https://arxiv.org/abs/2506.23549">CooT</a> paper has been accepted to <b style="color:#fa8072;">ICML 2025 MAS Workshop</b> and submitted to <b style="color:#fa8072;">NeurIPS 2025</b>!</li>
-    <li><b>May, 2025</b>&nbsp;&nbsp;&nbsp;&nbsp; Started Robot Learning internship at <a href="http://shennongshi.ai/" style="color:#fa8072;"><b>SHENNONGSHI.AI</b></a>, focusing on cooking applications!</li>
-    <li><b>Jan., 2025</b>&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="https://link.springer.com/article/10.1007/s00122-025-04967-z">leaf trichomes phenotyping pipeline</a> paper has been accepted to <b style="color:#fa8072;">Springer TAG</b>!</li>
-    <li><b>Dec., 2024</b>&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="https://arxiv.org/abs/2412.10785">StyleDiT</a> paper is now available on <b style="color:#fa8072;">arXiv</b>!</li>
-    <li><b>Oct., 2024</b>&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="https://nturobotlearninglab.github.io/DIFO/">Diffusion Imitation from Observation</a> paper has been accepted to <b style="color:#fa8072;">NeurIPS 2024</b>!</li>
-    <li><b>Jul., 2024</b>&nbsp;&nbsp;&nbsp;&nbsp; Our <a href="https://crab.camel-ai.org/">CRAB</a> benchmark has been accepted to <b style="color:#fa8072;">NeurIPS 2024 OWA Workshop</b> and <b style="color:#fa8072;">ACL Findings 2025</b>!</li>
-    <li><b>May, 2024</b>&nbsp;&nbsp;&nbsp;&nbsp; Started collaboration with NTU Robot Learning Lab working on foundation models for robotics!</li>
-    <li><b>Sep., 2023</b>&nbsp;&nbsp;&nbsp;&nbsp; Won <b style="color:#FF0000;">Silver Medal</b> at <b style="color:#fa8072;">International Conference on Computer Vision (ICCV)</b> Landmark Retrieval Challenge!</li>
+    {% for item in site.data.news.news %}
+    <li><b>{{ item.date }}</b>&nbsp;&nbsp;&nbsp;&nbsp; {{ item.content }}</li>
+    {% endfor %}
   </ul>
 </div>
 
