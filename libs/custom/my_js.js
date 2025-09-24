@@ -32,8 +32,9 @@ $(document).ready(function() {
     var target = this.hash,
         menu = target;
     $target = $(target);
+    var navHeight = $('.navbar').outerHeight();
     $('html, body').stop().animate({
-        'scrollTop': $target.offset().top-40
+        'scrollTop': $target.offset().top - navHeight
     }, 0, 'swing', function () {
         window.location.hash = target;
         $(document).on("scroll", onScroll);

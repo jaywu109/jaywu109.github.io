@@ -142,6 +142,9 @@ h4 {
     color: #222; }
   .navbar-link.active {
     color: #33C3F0; }
+  .navbar {
+    transition: all 0.3s ease;
+  }
   .has-docked-nav .navbar {
     position: fixed;
     top: 0;
@@ -220,4 +223,10 @@ h4 {
   .popover-link:hover,
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
+  
+  /* Fix anchor positioning for sections with fixed navbar */
+  #bio,
+  #publications {
+    scroll-margin-top: 6.5rem; /* matches .navbar height */
+  }
 }
