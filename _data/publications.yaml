@@ -5,7 +5,7 @@ papers:
     venue: "ICML 2025 MAS Workshop & ICLR 2026 (under review)"
     paper_pdf: "https://arxiv.org/abs/2506.23549"
     # code: ""
-    image: "assets/images/publications/coot.png"
+    image: "assets/images/publications/coot.webp"
     category: "recent"
     selected: y
     
@@ -16,7 +16,7 @@ papers:
     project_page: "https://nturobotlearninglab.github.io/DIFO/"
     paper_pdf: "https://arxiv.org/abs/2410.05429"
     code: "https://github.com/NTURobotLearningLab/DIFO"
-    image: "assets/images/publications/difo.png"
+    image: "assets/images/publications/difo.webp"
     category: "recent"
     selected: y
 
@@ -27,7 +27,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2407.01511"
     project_page: "https://crab.camel-ai.org/"
     code: "https://github.com/camel-ai/crab"
-    image: "assets/images/publications/crab.png"
+    image: "assets/images/publications/crab.webp"
     category: "recent"
     selected: y
 
@@ -36,7 +36,7 @@ papers:
     authors: "Pin-Yen Chiu*, <b><u>Dai-Jie Wu*</u></b>, Po-Hsun Chu, Chia-Hsuan Hsu, Hsiang-Chen Chiu, Chih-Yu Wang, Jun-Cheng Chen"
     venue: "Under Review"
     paper_pdf: "https://arxiv.org/abs/2412.10785"
-    image: "assets/images/publications/styledit.png"
+    image: "assets/images/publications/styledit.webp"
     category: "others"
     selected: y
 
@@ -45,16 +45,16 @@ papers:
     authors: "Jingyu Zhang*, Huitong Yang*, <b><u>Dai-Jie Wu*</u></b>, Jacky Keung, Xuesong Li, Xinge Zhu, Yuexin Ma"
     venue: "Springer PRCV 2023"
     paper_pdf: "https://link.springer.com/chapter/10.1007/978-981-99-8435-0_37"
-    image: "assets/images/publications/prcv.png"
+    image: "assets/images/publications/prcv.webp"
     category: "others"
     selected: y
 
   - title: "Towards Validating Face Editing Ability in Generative Models"
     year: "2024"
     authors: "<b><u>Dai-Jie Wu*</u></b>, Pin-Yen Chiu*, Chih-Yu Wang, Jun-Cheng Chen"
-    venue: "IEEE VCIP 2024"
+    venue: "IEEE VCIP 2024 (oral)"
     paper_pdf: "https://ieeexplore.ieee.org/abstract/document/10849882"
-    image: "assets/images/publications/vcip.png"
+    image: "assets/images/publications/vcip.webp"
     category: "others"
     selected: y
 
@@ -63,6 +63,6 @@ papers:
     authors: "Andrea González-Muñoz, <b><u>Dai-Jie Wu</u></b>, Ana Belén Perera-Rodríguez, Mohamed Rekik, Silvio Giancola, Brande B. H. Wulff, Catherine Gardener"
     venue: "Springer TAG 2025"
     paper_pdf: "https://link.springer.com/article/10.1007/s00122-025-04967-z"
-    image: "assets/images/publications/tag.png"
+    image: "assets/images/publications/tag.webp"
     category: "others"
     selected: y
