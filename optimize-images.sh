@@ -39,10 +39,16 @@ optimize_image() {
         echo "⏭️  Skipping $filename (already WebP)"
         return
     fi
-    
-    # Copy original to backup
+
+    # Skip if WebP version already exists
+    if [[ -f "$output_file" ]]; then
+        echo "⏭️  Skipping $filename (WebP version already exists)"
+        return
+    fi
+
+    # Copy original to backup before conversion
     cp "$input_file" "$BACKUP_DIR/"
-    
+
     # Convert to WebP with quality 85 (good balance between quality and size)
     cwebp -q 85 "$input_file" -o "$output_file" 2>/dev/null
     
