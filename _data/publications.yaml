@@ -1,4 +1,13 @@
 papers:
+  - title: "SAD-Flower: Flow Matching for Safe, Admissible, and Dynamically Consistent Planning"
+    year: "2026"
+    authors: "Tzu-Yuan Huang, Armin Lederer, <b><u>Dai-Jie Wu</u></b>, Xiaobing Dai, Sihua Zhang, Stefan Georg Sosnowski, Shao-Hua Sun, Sandra Hirche"
+    venue: "ICLR 2026 (under review)"
+    paper_pdf: "https://arxiv.org/abs/2511.05355"
+    image: "assets/images/publications/SAD.webp"
+    category: "recent"
+    selected: y
+
   - title: "CooT🐦: Learning to Coordinate In-Context with Coordination Transformers"
     year: "2025"
     authors: "Huai-Chih Wang, Hsiang-Chun Chuang, Hsi-Chun Cheng, <b><u>Dai-Jie Wu</u></b>, Shao-Hua Sun"
